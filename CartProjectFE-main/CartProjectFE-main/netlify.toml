@@ -1,4 +1,0 @@
-[build]
-  base = "CartProjectFE-main/CartProjectFE-main"
-  command = "npm run build"
-  publish = "CartProjectFE-main/CartProjectFE-main/build"
